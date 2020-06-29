@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Preferences App</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="user_name">User</string>
+    <string name="user_question">Which of the following are you Allergic to?</string>
+    <string name="user_address">Address</string>
+    <string name="sync_header">Sync Email</string>
+
+    <!-- Messages Preferences -->
+    <string name="user_name_title">Your Name</string>
+    <string name="address_title">Your Address</string>
+    <string name="reply_title">Please Select</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
